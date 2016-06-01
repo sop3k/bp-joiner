@@ -1,0 +1,16 @@
+BennKenn=KanAntragsAZ
+DBIndex=Lfd
+Hash=Treffer1-HashWert
+IP=Treffer1-IPAdresse
+FullDate=Treffer1-DatumUhrzeit
+Server=Treffer1-Dateiname
+Publish=Treffer1-Veröffentlichung
+Plugin=Treffer1-PluginType
+Details=STRAS
+SchuldnerNo=SCHULDNER_NR
+SecondName=NAME
+City=ORT
+Postal=PSTLZ
+FirstName=VORNAME
+ISPName=Treffer1-Benutzerkennung
+HAUPTF=HAUPTF

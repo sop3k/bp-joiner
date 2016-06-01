@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BaseprotectJoiner">
+</Property><Property Name="Solution File" Value="D:\_BASEPROTECT\BPJoiner\trunk\BaseprotectJoiner.sln">
+</Property><Property Name="User Options File" Value="D:\_BASEPROTECT\BPJoiner\trunk\BaseprotectJoiner.suo">
+</Property><Property Name="Date" Value="22 lipca 2011">
+</Property><Property Name="Time" Value="10:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BaseprotectJoiner.sln" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\BaseprotectJoiner.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BaseprotectJoiner.suo" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\BaseprotectJoiner.suo">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="BaseprotectJoiner.csproj" Description="Project file successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\BaseprotectJoiner.csproj">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="BaseprotectJoiner.csproj.user" Description="Project user file successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\BaseprotectJoiner.csproj.user">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="ColumnTranslator.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\ColumnTranslator.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Config.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Config.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="CSVExporter.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\CSVExporter.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DBMapping.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DBMapping.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgAddNote.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgAddNote.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgAddNote.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgAddNote.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgChangeState.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgChangeState.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgChangeState.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgChangeState.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgPersonDetails.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgPersonDetails.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgPersonDetails.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgPersonDetails.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgWait.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgWait.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgWait.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgWait.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DocumentCreator.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DocumentCreator.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="ExcelCleaner.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\ExcelCleaner.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="ExcelReader.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\ExcelReader.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="I18n.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\I18n.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="InfoImporter.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\InfoImporter.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="MainForm.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="MainForm.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Holder.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Holder.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Converter.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Converter.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Munger.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Munger.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="NewDataForm.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\NewDataForm.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="NewDataForm.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\NewDataForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="NewProject.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\NewProject.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="NewProject.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\NewProject.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="PathValidation.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\PathValidation.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DocToPdf.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DocToPdf.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Program.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="RegisteredFileType.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\RegisteredFileType.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Resource.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Resource.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Row.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Row.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SelectProject.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SelectProject.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SelectProject.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SelectProject.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SplashScreen.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SplashScreen.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SplashScreen.Designer.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SplashScreen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SQLiteTableWriter.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SQLiteTableWriter.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="StateChanger.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\StateChanger.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="StateInformation.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\StateInformation.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Table.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Table.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="TempFile.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\TempFile.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Utils.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Word.cs" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Word.cs">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Properties\app.manifest" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Properties\Settings.settings" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="main.ico" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\main.ico">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgAddNote.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgAddNote.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgChangeState.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgChangeState.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgPersonDetails.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgPersonDetails.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="DlgWait.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\DlgWait.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="MainForm.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="NewDataForm.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\NewDataForm.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="NewProject.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\NewProject.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="Properties\Resources.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SelectProject.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SelectProject.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="SplashScreen.resx" Description="File successfully backed up as D:\_BASEPROTECT\BPJoiner\trunk\Backup\SplashScreen.resx">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="BaseprotectJoiner.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BaseprotectJoiner" Source="BaseprotectJoiner.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BaseprotectJoiner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BaseprotectJoiner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BaseprotectJoiner" Source="BaseprotectJoiner.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
